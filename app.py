@@ -259,16 +259,7 @@ if selected == "Home":
 
     st.info("Know What's Verified • Understand What's Missing • Trust Facts, Not Noise")
 
-    st.markdown("## 💡 IDEA")
-    c1, c2, c3, c4 = st.columns(4)
-    with c1:
-        st.success("💡 Innovation")
-    with c2:
-        st.success("⚡ Dynamic")
-    with c3:
-        st.success("🚀 Empowerment")
-    with c4:
-        st.success("✨ Attraction")
+    
 
     st.markdown("## 🚀 Features")
     col1, col2, col3 = st.columns(3)
