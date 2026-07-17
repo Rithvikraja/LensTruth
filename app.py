@@ -1308,7 +1308,7 @@ st.markdown(
     Unauthorized reproduction or distribution of this software,
     its design, or its content is prohibited.
     <br><br>
-    Version 2.1 — Editorial Edition (PDF Reports · Page-Flip Navigation)
+    Version 2.1 — Editorial Edition
     </div>
     """,
     unsafe_allow_html=True,
