@@ -162,9 +162,9 @@ def calculate_transparency_score(
 # =====================================================
 # LOGO (top center)
 # =====================================================
-logo_col1, logo_col2, logo_col3 = st.columns([1, 1, 1])
+logo_col1, logo_col2, logo_col3 = st.columns([3, 1, 3])
 with logo_col2:
-    st.image("logo.png", use_container_width=True)
+    st.image("logo.png",width=120)
 # =====================================================
 # CSS
 # =====================================================
