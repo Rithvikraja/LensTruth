@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+newspaper3k
+groq
+python-dotenv
+lxml_html_clean
